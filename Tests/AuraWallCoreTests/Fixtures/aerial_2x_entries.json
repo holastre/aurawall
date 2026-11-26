@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "initialAssetCount": 4,
+  "assets": [
+    {
+      "accessibilityLabel": "Los Angeles Night 1",
+      "id": "A2E1B1F0-0001-4000-8000-000000000001",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/LA_01_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/LA_01_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/LA_01_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/LA_01_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Los Angeles Night 2",
+      "id": "A2E1B1F0-0002-4000-8000-000000000002",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/LA_02_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/LA_02_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/LA_02_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/LA_02_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "San Francisco Fog 1",
+      "id": "A2E1B1F0-0003-4000-8000-000000000003",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/SF_03_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/SF_03_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/SF_03_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/SF_03_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "San Francisco Fog 2",
+      "id": "A2E1B1F0-0004-4000-8000-000000000004",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/SF_04_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/SF_04_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/SF_04_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/SF_04_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "New York Midtown 1",
+      "id": "A2E1B1F0-0005-4000-8000-000000000005",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/NY_05_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/NY_05_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/NY_05_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/NY_05_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "New York Midtown 2",
+      "id": "A2E1B1F0-0006-4000-8000-000000000006",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/NY_06_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/NY_06_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/NY_06_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/NY_06_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "London Thames 1",
+      "id": "A2E1B1F0-0007-4000-8000-000000000007",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/LN_07_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/LN_07_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/LN_07_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/LN_07_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "London Thames 2",
+      "id": "A2E1B1F0-0008-4000-8000-000000000008",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/LN_08_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/LN_08_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/LN_08_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/LN_08_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Hawaii Coastline 1",
+      "id": "A2E1B1F0-0009-4000-8000-000000000009",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/HI_09_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/HI_09_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/HI_09_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/HI_09_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Liwa Desert 1",
+      "id": "A2E1B1F0-0010-4000-8000-000000000010",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/LW_10_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/LW_10_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/LW_10_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/LW_10_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Greenland Glaciers 1",
+      "id": "A2E1B1F0-0011-4000-8000-000000000011",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/GL_11_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/GL_11_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/GL_11_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/GL_11_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Dubai Night 1",
+      "id": "A2E1B1F0-0012-4000-8000-000000000012",
+      "url-1080-HDR": "https://mock.aurawall.local/aerials/missing/DB_12_1080_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/aerials/missing/DB_12_1080_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/aerials/missing/DB_12_4K_HDR.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/aerials/missing/DB_12_4K_SDR.mov"
+    },
+    {
+      "accessibilityLabel": "Hong Kong Harbor",
+      "id": "FE8E1171-C013-4000-8000-000000000013",
+      "url-1080-HDR": "https://mock.aurawall.local/media/HK_H004_C013_2K_HDR_HEVC.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/media/HK_H004_C013_2K_SDR_HEVC.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/media/HK_H004_C013_4K_HDR_HEVC.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/media/HK_H004_C013_4K_SDR_HEVC.mov"
+    }
+  ]
+}

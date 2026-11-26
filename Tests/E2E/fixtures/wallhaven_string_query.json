@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "9oe8yd",
+      "url": "https://wallhaven.cc/w/9oe8yd",
+      "short_url": "https://whvn.cc/9oe8yd",
+      "views": 19011,
+      "favorites": 190,
+      "source": "",
+      "purity": "sfw",
+      "category": "general",
+      "dimension_x": 3840,
+      "dimension_y": 1634,
+      "resolution": "3840x1634",
+      "ratio": "2.35",
+      "file_size": 2814332,
+      "file_type": "image/jpeg",
+      "created_at": "2026-11-14 10:41:46",
+      "colors": ["#000000", "#663300", "#424153"],
+      "path": "https://mock.aurawall.local/media/sample_image.jpg",
+      "thumbs": {
+        "large": "https://mock.aurawall.local/media/sample_image.jpg",
+        "original": "https://mock.aurawall.local/media/sample_image.jpg",
+        "small": "https://mock.aurawall.local/media/sample_image.jpg"
+      }
+    },
+    {
+      "id": "k7m2x9",
+      "url": "https://wallhaven.cc/w/k7m2x9",
+      "short_url": "https://whvn.cc/k7m2x9",
+      "views": 8420,
+      "favorites": 112,
+      "source": "https://example.com/alpine-ridge",
+      "purity": "sfw",
+      "category": "general",
+      "dimension_x": 3840,
+      "dimension_y": 2160,
+      "resolution": "3840x2160",
+      "ratio": "1.78",
+      "file_size": 3451200,
+      "file_type": "image/png",
+      "created_at": "2026-11-12 08:15:00",
+      "colors": ["#003366", "#336699", "#99ccff"],
+      "path": "https://mock.aurawall.local/media/sample_image.png",
+      "thumbs": {
+        "large": "https://mock.aurawall.local/media/sample_image.jpg",
+        "original": "https://mock.aurawall.local/media/sample_image.png",
+        "small": "https://mock.aurawall.local/media/sample_image.jpg"
+      }
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "last_page": 13,
+    "per_page": 24,
+    "total": 310,
+    "query": "landscape",
+    "seed": null
+  }
+}

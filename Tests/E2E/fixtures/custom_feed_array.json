@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://mock.aurawall.local/media/sample_video.mp4",
+    "previewUrl": "",
+    "category": "Abstract",
+    "tags": ["minimal", "loop"]
+  },
+  {
+    "url": "https://mock.aurawall.local/media/sample_image.png",
+    "previewUrl": "https://mock.aurawall.local/media/sample_image.png",
+    "width": 320,
+    "height": 180
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "page": 1,
+  "per_page": 15,
+  "total_results": 1200,
+  "url": "https://www.pexels.com/videos/",
+  "next_page": "https://api.pexels.com/v1/videos/search?page=2&per_page=15&query=waves",
+  "prev_page": null,
+  "videos": [
+    {
+      "id": 855675,
+      "width": 3840,
+      "height": 2160,
+      "url": "https://www.pexels.com/video/aerial-view-of-ocean-waves-855675/",
+      "image": "https://images.pexels.com/videos/855675/poster.jpg",
+      "duration": 15,
+      "user": {
+        "id": 293393,
+        "name": "Kelly",
+        "url": "https://www.pexels.com/@kelly-293393"
+      },
+      "video_files": [
+        {
+          "id": 14750,
+          "quality": null,
+          "file_type": "application/x-mpegURL",
+          "width": null,
+          "height": null,
+          "fps": null,
+          "link": "https://videos.pexels.com/video-files/855675/stream.m3u8"
+        },
+        {
+          "id": 14751,
+          "quality": "hd",
+          "file_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "fps": 30.0,
+          "link": "https://videos.pexels.com/video-files/855675/855675-portrait-1080x1920.mp4"
+        },
+        {
+          "id": 14752,
+          "quality": "sd",
+          "file_type": "video/mp4",
+          "width": 640,
+          "height": 360,
+          "fps": 30.0,
+          "link": "https://videos.pexels.com/video-files/855675/855675-sd-640x360.mp4"
+        },
+        {
+          "id": 14753,
+          "quality": "hd",
+          "file_type": "video/mp4",
+          "width": 1920,
+          "height": 1080,
+          "fps": 30.0,
+          "link": "https://videos.pexels.com/video-files/855675/855675-hd-1920x1080.mp4"
+        },
+        {
+          "id": 14755,
+          "quality": "uhd",
+          "file_type": "video/mp4",
+          "width": 3840,
+          "height": 2160,
+          "fps": 30.0,
+          "link": "https://videos.pexels.com/video-files/855675/855675-uhd-3840x2160.mp4"
+        }
+      ],
+      "video_pictures": [
+        {
+          "id": 298114,
+          "picture": "https://images.pexels.com/videos/855675/pictures/preview-0.jpg",
+          "nr": 0
+        }
+      ]
+    }
+  ]
+}

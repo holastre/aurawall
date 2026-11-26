@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "initialAssetCount": 4,
+  "localizationVersion": "19K-1",
+  "categories": [
+    {
+      "id": "55B7C95D-5A40-41B7-A6A5-111111111111",
+      "localizedNameKey": "AerialCategorySpace",
+      "localizedDescriptionKey": "AerialCategorySpaceDescription",
+      "preferredOrder": 1,
+      "previewImage": "https://mock.aurawall.local/snapshots/space.jpg",
+      "representativeAssetID": "11111111-270C-4490-9C69-F51FE03D7F01"
+    },
+    {
+      "id": "A33A55D9-3497-4120-A4F4-222222222222",
+      "localizedNameKey": "AerialCategoryLandscapes",
+      "localizedDescriptionKey": "AerialCategoryLandscapesDescription",
+      "preferredOrder": 2,
+      "previewImage": "https://mock.aurawall.local/snapshots/landscapes.jpg",
+      "representativeAssetID": "22222222-270C-4490-9C69-F51FE03D7F02"
+    },
+    {
+      "id": "5EF41171-620B-4E12-B5C1-333333333333",
+      "localizedNameKey": "AerialCategoryCities",
+      "localizedDescriptionKey": "AerialCategoryCitiesDescription",
+      "preferredOrder": 3,
+      "previewImage": "https://mock.aurawall.local/snapshots/cities.jpg",
+      "representativeAssetID": "33333333-270C-4490-9C69-F51FE03D7F03"
+    },
+    {
+      "id": "8BE8B524-6EAE-43F5-A3E8-01DCFA1BCD4B",
+      "localizedNameKey": "AerialCategoryUnderwater",
+      "localizedDescriptionKey": "AerialCategoryUnderwaterDescription",
+      "preferredOrder": 4,
+      "previewImage": "https://mock.aurawall.local/snapshots/SE_A016_C009.jpg",
+      "representativeAssetID": "83C65C90-270C-4490-9C69-F51FE03D7F06"
+    }
+  ],
+  "assets": [
+    {
+      "id": "83C65C90-270C-4490-9C69-F51FE03D7F06",
+      "accessibilityLabel": "Seals Underwater",
+      "shotID": "SE_A016_C009",
+      "group": "19J-1",
+      "categories": ["8BE8B524-6EAE-43F5-A3E8-01DCFA1BCD4B"],
+      "subcategories": ["sub-underwater"],
+      "pointsOfInterest": { "0": "SE_A016_C009_0" },
+      "localizedNameKey": "SE_A016_C009_NAME",
+      "previewImage": "https://mock.aurawall.local/snapshots/SE_A016_C009_asset.jpg",
+      "url-4K-SDR-240FPS": "https://mock.aurawall.local/media/SE_A016_C009_4K_240FPS.mov",
+      "url-4K-SDR": "https://mock.aurawall.local/media/SE_A016_C009_4K_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/media/SE_A016_C009_4K_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/media/SE_A016_C009_2K_SDR.mov",
+      "url-1080-HDR": "https://mock.aurawall.local/media/SE_A016_C009_2K_HDR.mov",
+      "url-1080-H264": "https://mock.aurawall.local/media/SE_A016_C009_2K_AVC.mov"
+    },
+    {
+      "id": "11111111-270C-4490-9C69-F51FE03D7F01",
+      "accessibilityLabel": "Caribbean Day Orbit",
+      "shotID": "GMT308_139K",
+      "categories": ["55B7C95D-5A40-41B7-A6A5-111111111111"],
+      "pointsOfInterest": { "0": "GMT308_139K_0" },
+      "url-4K-SDR": "https://mock.aurawall.local/media/GMT308_4K_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/media/GMT308_4K_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/media/GMT308_2K_SDR.mov",
+      "url-1080-HDR": "https://mock.aurawall.local/media/GMT308_2K_HDR.mov",
+      "url-1080-H264": "https://mock.aurawall.local/media/GMT308_2K_AVC.mov"
+    },
+    {
+      "id": "22222222-270C-4490-9C69-F51FE03D7F02",
+      "accessibilityLabel": "Yosemite Valley",
+      "shotID": "Y004_C015",
+      "categories": ["A33A55D9-3497-4120-A4F4-222222222222"],
+      "pointsOfInterest": { "0": "Y004_C015_0" },
+      "url-4K-SDR": "https://mock.aurawall.local/media/Y004_4K_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/media/Y004_4K_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/media/Y004_2K_SDR.mov",
+      "url-1080-HDR": "https://mock.aurawall.local/media/Y004_2K_HDR.mov",
+      "url-1080-H264": "https://mock.aurawall.local/media/Y004_2K_AVC.mov"
+    },
+    {
+      "id": "33333333-270C-4490-9C69-F51FE03D7F03",
+      "accessibilityLabel": "Hong Kong Skyline",
+      "shotID": "HK_H004_C013",
+      "group": "19K-1",
+      "categories": ["5EF41171-620B-4E12-B5C1-333333333333"],
+      "pointsOfInterest": { "0": "HK_H004_C013_0" },
+      "url-4K-SDR": "https://mock.aurawall.local/media/HK_H004_4K_SDR.mov",
+      "url-4K-HDR": "https://mock.aurawall.local/media/HK_H004_4K_HDR.mov",
+      "url-1080-SDR": "https://mock.aurawall.local/media/HK_H004_2K_SDR.mov",
+      "url-1080-HDR": "https://mock.aurawall.local/media/HK_H004_2K_HDR.mov",
+      "url-1080-H264": "https://mock.aurawall.local/media/HK_H004_2K_AVC.mov"
+    }
+  ]
+}

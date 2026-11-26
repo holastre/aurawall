@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "title": "AuraWall E2E Custom Feed",
+  "items": [
+    {
+      "id": "custom-ocean-01",
+      "title": "Pacific Dawn",
+      "mediaType": "video",
+      "url": "https://mock.aurawall.local/media/sample_video.mp4",
+      "previewUrl": "https://mock.aurawall.local/media/sample_image.jpg",
+      "previewVideoUrl": "https://mock.aurawall.local/media/sample_video.mp4",
+      "category": "Nature",
+      "width": 3840,
+      "height": 2160,
+      "duration": 18.5,
+      "fileSize": 1834,
+      "tags": ["ocean", "dawn", "4k"],
+      "colors": ["#0F2C3F", "#E68A5C"]
+    },
+    {
+      "id": "custom-aerial-02",
+      "title": "Harbor Dusk Loop",
+      "mediaType": "video",
+      "url": "https://mock.aurawall.local/media/sample_aerial_4k.mov",
+      "previewUrl": "https://mock.aurawall.local/media/seal.jpg",
+      "previewVideoUrl": "https://mock.aurawall.local/media/sample_video.mov",
+      "category": "Cities",
+      "width": 3840,
+      "height": 2160,
+      "duration": 12.0,
+      "fileSize": 2898,
+      "tags": ["harbor", "aerial", "dusk"],
+      "colors": ["#1A2238", "#FF6A3D"]
+    },
+    {
+      "id": "custom-ridge-03",
+      "title": "Blue Ridge Still",
+      "mediaType": "image",
+      "url": "https://mock.aurawall.local/media/sample_image.jpg",
+      "previewUrl": "https://mock.aurawall.local/media/sample_image.jpg",
+      "category": "Landscapes",
+      "width": 320,
+      "height": 180,
+      "fileSize": 2996,
+      "tags": ["mountain", "still"],
+      "colors": ["#1E4E79", "#E5B84B"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "batch-legacy-1",
+    "assets": [
+      {
+        "url": "https://mock.aurawall.local/legacy/b1-1.mov",
+        "accessibilityLabel": "Hawaii Coast Day",
+        "type": "video",
+        "id": "legacy-b1-1",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://mock.aurawall.local/legacy/b1-2.mov",
+        "accessibilityLabel": "San Francisco Bridge Night",
+        "type": "video",
+        "id": "legacy-b1-2",
+        "timeOfDay": "night"
+      }
+    ]
+  },
+  {
+    "id": "batch-legacy-2",
+    "assets": [
+      {
+        "url": "https://mock.aurawall.local/legacy/b2-1.mov",
+        "accessibilityLabel": "London Eye Dusk",
+        "type": "video",
+        "id": "legacy-b2-1",
+        "timeOfDay": "night"
+      }
+    ]
+  }
+]

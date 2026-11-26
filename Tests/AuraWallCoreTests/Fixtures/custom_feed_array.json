@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://cdn.example.com/media/minimal-loop.mp4",
+    "previewUrl": "",
+    "category": "Abstract",
+    "tags": ["minimal", "loop"]
+  },
+  {
+    "url": "https://cdn.example.com/media/horizon-still.png",
+    "previewUrl": "https://cdn.example.com/media/horizon-thumb.png",
+    "width": 2560,
+    "height": 1440
+  },
+  {
+    "id": "bad-insecure-scheme",
+    "title": "Should Be Rejected",
+    "url": "http://insecure.example.com/media/rejected.mp4"
+  }
+]

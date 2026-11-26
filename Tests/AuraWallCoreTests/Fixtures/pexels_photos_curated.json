@@ -1,0 +1,53 @@
+{
+  "page": 1,
+  "per_page": 15,
+  "total_results": 8000,
+  "next_page": "https://api.pexels.com/v1/curated?page=2&per_page=15",
+  "prev_page": null,
+  "photos": [
+    {
+      "id": 2014422,
+      "width": 3840,
+      "height": 2160,
+      "url": "https://www.pexels.com/photo/brown-rocks-during-golden-hour-2014422/",
+      "photographer": "Joey Farina",
+      "photographer_url": "https://www.pexels.com/@joey",
+      "photographer_id": 680589,
+      "avg_color": "#978E82",
+      "src": {
+        "original": "https://images.pexels.com/photos/2014422/pexels-photo-2014422.jpeg",
+        "large2x": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-2x.jpeg",
+        "large": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-lg.jpeg",
+        "medium": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-md.jpeg",
+        "small": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-sm.jpeg",
+        "portrait": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-pt.jpeg",
+        "landscape": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-ls.jpeg",
+        "tiny": "https://images.pexels.com/photos/2014422/pexels-photo-2014422-tn.jpeg"
+      },
+      "liked": false,
+      "alt": "Brown Rocks During Golden Hour"
+    },
+    {
+      "id": 2014423,
+      "width": 2560,
+      "height": 1440,
+      "url": "https://www.pexels.com/photo/minimal-horizon-2014423/",
+      "photographer": "Alex Rivera",
+      "photographer_url": "https://www.pexels.com/@alex",
+      "photographer_id": 680590,
+      "avg_color": null,
+      "src": {
+        "original": "https://images.pexels.com/photos/2014423/pexels-photo-2014423.png",
+        "large2x": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-2x.png",
+        "large": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-lg.jpg",
+        "medium": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-md.jpg",
+        "small": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-sm.jpg",
+        "portrait": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-pt.jpg",
+        "landscape": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-ls.jpg",
+        "tiny": "https://images.pexels.com/photos/2014423/pexels-photo-2014423-tn.jpg"
+      },
+      "liked": false,
+      "alt": null
+    }
+  ]
+}

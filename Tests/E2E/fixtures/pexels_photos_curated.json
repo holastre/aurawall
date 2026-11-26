@@ -1,0 +1,53 @@
+{
+  "page": 1,
+  "per_page": 15,
+  "total_results": 8000,
+  "next_page": "https://mock.aurawall.local/pexels/v1/curated?page=2&per_page=15",
+  "prev_page": null,
+  "photos": [
+    {
+      "id": 2014422,
+      "width": 3840,
+      "height": 2160,
+      "url": "https://www.pexels.com/photo/brown-rocks-during-golden-hour-2014422/",
+      "photographer": "Joey Farina",
+      "photographer_url": "https://www.pexels.com/@joey",
+      "photographer_id": 680589,
+      "avg_color": "#978E82",
+      "src": {
+        "original": "https://mock.aurawall.local/media/sample_image.jpg",
+        "large2x": "https://mock.aurawall.local/media/sample_image.jpg",
+        "large": "https://mock.aurawall.local/media/sample_image.jpg",
+        "medium": "https://mock.aurawall.local/media/sample_image.jpg",
+        "small": "https://mock.aurawall.local/media/sample_image.jpg",
+        "portrait": "https://mock.aurawall.local/media/sample_image.jpg",
+        "landscape": "https://mock.aurawall.local/media/sample_image.jpg",
+        "tiny": "https://mock.aurawall.local/media/sample_image.jpg"
+      },
+      "liked": false,
+      "alt": "Brown Rocks During Golden Hour"
+    },
+    {
+      "id": 2014423,
+      "width": 2560,
+      "height": 1440,
+      "url": "https://www.pexels.com/photo/minimal-horizon-2014423/",
+      "photographer": "Alex Rivera",
+      "photographer_url": "https://www.pexels.com/@alex",
+      "photographer_id": 680590,
+      "avg_color": null,
+      "src": {
+        "original": "https://mock.aurawall.local/media/sample_image.png",
+        "large2x": "https://mock.aurawall.local/media/sample_image.png",
+        "large": "https://mock.aurawall.local/media/sample_image.jpg",
+        "medium": "https://mock.aurawall.local/media/sample_image.jpg",
+        "small": "https://mock.aurawall.local/media/sample_image.jpg",
+        "portrait": "https://mock.aurawall.local/media/sample_image.jpg",
+        "landscape": "https://mock.aurawall.local/media/sample_image.jpg",
+        "tiny": "https://mock.aurawall.local/media/sample_image.jpg"
+      },
+      "liked": false,
+      "alt": null
+    }
+  ]
+}

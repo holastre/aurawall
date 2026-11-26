@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+.swiftpm/
+build/
+*.xcodeproj
+*.xcworkspace
+__pycache__/
+*.pyc
+.env
+secrets.json

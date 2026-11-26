@@ -1,0 +1,95 @@
+{
+  "total": 2,
+  "totalHits": 2,
+  "hits": [
+    {
+      "id": 12573,
+      "pageURL": "https://pixabay.com/videos/id-12573/",
+      "type": "film",
+      "tags": "ocean, waves, aerial",
+      "duration": 18,
+      "picture_id": "618204721",
+      "videos": {
+        "large": {
+          "url": "https://cdn.pixabay.com/video/12573/12573-large.mp4",
+          "width": 3840,
+          "height": 2160,
+          "size": 12450000,
+          "thumbnail": "https://cdn.pixabay.com/video/12573/12573-large-thumb.jpg"
+        },
+        "medium": {
+          "url": "https://cdn.pixabay.com/video/12573/12573-medium.mp4",
+          "width": 1920,
+          "height": 1080,
+          "size": 4520000,
+          "thumbnail": "https://cdn.pixabay.com/video/12573/12573-medium-thumb.jpg"
+        },
+        "small": {
+          "url": "https://cdn.pixabay.com/video/12573/12573-small.mp4",
+          "width": 1280,
+          "height": 720,
+          "size": 2100000,
+          "thumbnail": "https://cdn.pixabay.com/video/12573/12573-small-thumb.jpg"
+        },
+        "tiny": {
+          "url": "https://cdn.pixabay.com/video/12573/12573-tiny.mp4",
+          "width": 640,
+          "height": 360,
+          "size": 850000,
+          "thumbnail": "https://cdn.pixabay.com/video/12573/12573-tiny-thumb.jpg"
+        }
+      },
+      "views": 42100,
+      "downloads": 9100,
+      "likes": 620,
+      "comments": 24,
+      "user_id": 1001,
+      "user": "PixabayCreator",
+      "userImageURL": "https://cdn.pixabay.com/user/1001.jpg"
+    },
+    {
+      "id": 24891,
+      "pageURL": "https://pixabay.com/videos/id-24891/",
+      "type": "film",
+      "tags": "forest, mist, morning",
+      "duration": 12,
+      "videos": {
+        "large": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "size": 0,
+          "thumbnail": "https://cdn.pixabay.com/video/24891/24891-large-thumb.jpg"
+        },
+        "medium": {
+          "url": "https://cdn.pixabay.com/video/24891/24891-medium.mp4",
+          "width": 1920,
+          "height": 1080,
+          "size": 3180000,
+          "thumbnail": "https://cdn.pixabay.com/video/24891/24891-medium-thumb.jpg"
+        },
+        "small": {
+          "url": "https://cdn.pixabay.com/video/24891/24891-small.mp4",
+          "width": 1280,
+          "height": 720,
+          "size": 1540000,
+          "thumbnail": "https://cdn.pixabay.com/video/24891/24891-small-thumb.jpg"
+        },
+        "tiny": {
+          "url": "https://cdn.pixabay.com/video/24891/24891-tiny.mp4",
+          "width": 640,
+          "height": 360,
+          "size": 620000,
+          "thumbnail": "https://cdn.pixabay.com/video/24891/24891-tiny-thumb.jpg"
+        }
+      },
+      "views": 18200,
+      "downloads": 4100,
+      "likes": 310,
+      "comments": 11,
+      "user_id": 1002,
+      "user": "ForestLens",
+      "userImageURL": ""
+    }
+  ]
+}

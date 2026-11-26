@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "title": "AuraWall Custom Feed",
+  "items": [
+    {
+      "id": "custom-ocean-01",
+      "title": "Pacific Dawn",
+      "mediaType": "video",
+      "url": "https://cdn.example.com/media/pacific-dawn-4k.mp4",
+      "previewUrl": "https://cdn.example.com/media/pacific-dawn-thumb.jpg",
+      "previewVideoUrl": "https://cdn.example.com/media/pacific-dawn-720p.mp4",
+      "category": "Nature",
+      "width": 3840,
+      "height": 2160,
+      "duration": 18.5,
+      "fileSize": 24500000,
+      "tags": ["ocean", "dawn", "4k"],
+      "colors": ["#0F2C3F", "#E68A5C"]
+    },
+    {
+      "id": "custom-ridge-02",
+      "title": "Blue Ridge Still",
+      "mediaType": "image",
+      "url": "https://cdn.example.com/media/blue-ridge.jpg",
+      "previewUrl": "https://cdn.example.com/media/blue-ridge-thumb.jpg",
+      "category": "Landscapes",
+      "width": 3840,
+      "height": 2160,
+      "fileSize": 4200000,
+      "tags": ["mountain", "still"],
+      "colors": ["#1E4E79", "#E5B84B"]
+    }
+  ]
+}

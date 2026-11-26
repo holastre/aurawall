@@ -1,0 +1,33 @@
+[
+  {
+    "id": "batch-phobos-1",
+    "assets": [
+      {
+        "url": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/b1-1.mov",
+        "accessibilityLabel": "Hawaii Coast Day",
+        "type": "video",
+        "id": "phobos-b1-1",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/b1-2.mov",
+        "accessibilityLabel": "San Francisco Bridge Night",
+        "type": "video",
+        "id": "phobos-b1-2",
+        "timeOfDay": "night"
+      }
+    ]
+  },
+  {
+    "id": "batch-phobos-2",
+    "assets": [
+      {
+        "url": "http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/b2-1.mov",
+        "accessibilityLabel": "London Eye Dusk",
+        "type": "video",
+        "id": "phobos-b2-1",
+        "timeOfDay": "night"
+      }
+    ]
+  }
+]
